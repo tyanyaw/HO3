@@ -1,4 +1,4 @@
-# NUXT 4
+# NUXT 4 HO3
 
 # Nuxt Minimal Starter
 
